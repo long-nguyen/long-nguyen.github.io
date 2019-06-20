@@ -1,6 +1,5 @@
 # 職務経歴書
 ## 基本情報
-<img align="right" width="110" src="./images/profile_long.png">
 
 |情報||
 |---|-----|
