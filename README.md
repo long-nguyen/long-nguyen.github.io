@@ -30,7 +30,7 @@
 
 
 ### その他
-- プロジェクトマネジメント経験：２年  
+- プロジェクトマネジメント経験：3年  
   - プロジェクト進捗管理（WaterfallまたはKanbanメソッド）  
   - チームサイズ： 20名
 - オフショア開発のブリッジSE：4年
@@ -47,6 +47,7 @@
 
 
 ## 資格
+- Project Management Professional (PMP)
 - IBM Certified Database Associate -- DB2 9 Fundamentals
 - IBM Certified Solution Designer - Object Oriented Analysis and Design, vUML 2
 - JSST(Japanese Standard Speaking Test) Level 7/10
@@ -80,3 +81,11 @@
 |2013/09|![childtablet](images/childtablet.png)|[子どもまちづくりポケット](https://www.kayac.com/service/client/1117)|Android|開発者|
 |2013/06|![poketabi](images/poketabi.png)|[ポケたび | JTB旅の便利スマートフォンアプリ](https://play.google.com/store/apps/details?id=jp.jtbtravel.voyage)|Android|開発者|
 |2012/08|![panasonic](images/panasonic.png)|[Enjoy! Panasonic Smart App](https://www.kayac.com/service/client/1006)|Android|開発者|
+
+## 受賞歴
+|Date|Event|リンク|
+|----|-----|-----|
+|2019年12月|Google Play「ベストオブ2019」|[peep](https://ict-enews.net/2019/12/04peep/)|
+|2019年11|Altplus Vietnam MVP||
+|2018年12|Altplus Vietnam MVP||
+|2016年09月|App of the day by Design Nominee|[Weather widget & Radar](https://www.designnominees.com/apps/weather-widget-unique-styles-for-today-screen)|
